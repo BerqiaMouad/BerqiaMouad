@@ -4,7 +4,7 @@ I'm Mouad from Morocco, and I'm Computer Science student and part time Frotn-end
 
 
 ## Skills and Experience
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,python,js,html,css)](https://skills.thijs.gg)
 
 
 - 🔭 I’m currently working on Website to learn C++ for competitive programming 
