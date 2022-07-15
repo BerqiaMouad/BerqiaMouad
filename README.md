@@ -1,3 +1,5 @@
+![](https://github.com/BerqiaMouad/BerqiaMouad/blob/main/banner.jpg)
+
 # Hi there 👋, I'm Mouad Berqia
 
 I'm Mouad from Morocco, and I'm a Computer Science student and part time Frotn-end web developer. I really enjoy learning new things related to tech and computer science and I am also interested in machine learning. I do some competitive programming as well, in fact I have participated in many contests and won some of them. I really love to work on new projects with new people. You can check my web portfolio at www.berqiamouad.me or my twitter at www.twitter.com/BerqiaM.
