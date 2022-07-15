@@ -1,9 +1,11 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, I'm Mouad Berqia
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Mouad from Morocco, and I'm Computer Science student and part time Frotn-end web developer. I really enjoy learning new things related to tech and computer science and I am also interested in machine learning. I also do some competitive programming, in fact I have participated in many contests and won some of them. I really love to work on new projects with new people. You can check my web portfolio at berqiamouad.me or my twitter at twitter.com/BerqiaM.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
+## Skills and Experience
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,js,html,css)](https://skills.thijs.gg)
+
 
 - 🔭 I’m currently working on Website to learn C++ for competitive programming 
 - 🌱 I’m currently learning Machine learning 
