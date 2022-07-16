@@ -10,7 +10,8 @@ I'm Mouad from Morocco, and I'm a Computer Science student and part time Frotn-e
 
 
 ## Some of my works
-[<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/mywebsitegif.gif" width="300" />](https://github.com/BerqiaMouad/portfolio2022)
+[<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/mywebsitegif.gif" width="300" />](https://github.com/BerqiaMouad/portfolio2022) &nbsp; &nbsp;
+
 [<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/fsrcpclubgif.gif" width="300" />](https://fsr-cp-club.netlify.app/)
 
 
