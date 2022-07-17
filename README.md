@@ -1,4 +1,4 @@
-![](https://github.com/BerqiaMouad/BerqiaMouad/blob/main/bannernewanim.gif)
+<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/bannernewanim.gif" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Mouad</h1>
