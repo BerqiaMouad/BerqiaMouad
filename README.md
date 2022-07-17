@@ -7,8 +7,9 @@
 <p>
 I'm Mouad from Morocco, and I'm a Computer Science student and part time Frotn-end web developer. I really enjoy learning new things related to tech and computer science and I am also interested in machine learning. I do some competitive programming as well, in fact I have participated in many contests and won some of them. I really love to work on new projects with new people. You can check my web portfolio at www.berqiamouad.me or my twitter at www.twitter.com/BerqiaM.
 </p
+  
+ <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" width="300" align="right">
 
-![image](https://user-images.githubusercontent.com/83679093/179417801-aa5b6e6d-c6c5-4e4d-9717-e2a18a76b80e.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berqiamouad&label=Profile%20views&color=0e75b6&style=flat" alt="berqiamouad" /> </p>
 
