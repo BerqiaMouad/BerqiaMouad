@@ -8,15 +8,15 @@
 I'm Mouad from Morocco, and I'm a Computer Science student and part time Frotn-end web developer. I really enjoy learning new things related to tech and computer science and I am also interested in machine learning. I do some competitive programming as well, in fact I have participated in many contests and won some of them. I really love to work on new projects with new people. You can check my web portfolio at www.berqiamouad.me or my twitter at www.twitter.com/BerqiaM.
 </p
 
-- 🔭 I’m currently working on [A website to learn C++ for Competitive programming](https://github.com/BerqiaMouad/cppForCp)
+🔭 I’m currently working on [A website to learn C++ for Competitive programming](https://github.com/BerqiaMouad/cppForCp)
 
-- 🌱 I’m currently learning **Machine learning**
+🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [berqiamouad.me](berqiamouad.me)
+👨‍💻 All of my projects are available at [berqiamouad.me](berqiamouad.me)
 
-- 📫 How to reach me **berqiamouad@gmail.com**
+📫 How to reach me **berqiamouad@gmail.com**
 
-- ⚡ Fun fact **I actually love problem solving**
+⚡ Fun fact **I actually love problem solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
