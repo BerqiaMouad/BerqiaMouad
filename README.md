@@ -1,26 +1,39 @@
 ![](https://github.com/BerqiaMouad/BerqiaMouad/blob/main/banner.jpg)
 
-# Hi there 👋, I'm Mouad Berqia
 
+<h1 align="center">Hi 👋, I'm Mouad</h1>
+<h3 align="center">Part time front end web developer</h3>
+
+<p>
 I'm Mouad from Morocco, and I'm a Computer Science student and part time Frotn-end web developer. I really enjoy learning new things related to tech and computer science and I am also interested in machine learning. I do some competitive programming as well, in fact I have participated in many contests and won some of them. I really love to work on new projects with new people. You can check my web portfolio at www.berqiamouad.me or my twitter at www.twitter.com/BerqiaM.
+</p
 
+- 🔭 I’m currently working on [A website to learn C++ for Competitive programming](https://github.com/BerqiaMouad/cppForCp)
 
-## Skills and Experience
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,python,js,html,css)](https://skills.thijs.gg)
+- 🌱 I’m currently learning **Machine learning**
 
+- 👨‍💻 All of my projects are available at [berqiamouad.me](berqiamouad.me)
 
-## Some of my works
-[<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/mywebsitegif.gif" width="300" />](https://github.com/BerqiaMouad/portfolio2022) &nbsp; &nbsp;
-[<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/fsrcpclubgif.gif" width="300" />](https://fsr-cp-club.netlify.app/)
+- 📫 How to reach me **berqiamouad@gmail.com**
 
+- ⚡ Fun fact **I actually love problem solving**
 
-## Work in progress
-<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/cppforcppresentation.gif" width="300" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/berqiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berqiam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berqiamouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berqiamouad" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/berqiamouad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="berqiamouad" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/berqiamouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berqiamouad" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/berqiamouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="berqiamouad" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/berqiamouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="berqiamouad" height="30" width="40" /></a>
+</p>
 
-## Social media and profiles
-[<img src='https://github.com/BerqiaMouad/BerqiaMouad/blob/main/github.png' alt='github' height='40'>](https://github.com/BerqiaMouad)  [<img src='https://github.com/BerqiaMouad/BerqiaMouad/blob/main/linkedinicon.gif' alt='linkedin' height='40'>](https://www.linkedin.com/in/berqiamouad/)  [<img src='https://github.com/BerqiaMouad/BerqiaMouad/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/BerqiaM)  [<img src='https://github.com/BerqiaMouad/portfolio2022/blob/main/images/BM.png' alt='website' height='40'>](https://www.berqiamouad.me/)  [<img src='https://github.com/BerqiaMouad/BerqiaMouad/blob/main/code-forces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/berqiamouad)  [<img src='https://github.com/BerqiaMouad/BerqiaMouad/blob/main/codecheficon.png' alt='codechef' height='40'>](https://www.codechef.com/users/berqiamouad)  [<img src='https://github.com/BerqiaMouad/BerqiaMouad/blob/main/hackerrank.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/berqiamouad)  [<img src='https://github.com/BerqiaMouad/BerqiaMouad/blob/main/leetcodeicon.png' alt='leetcode' height='40'>](https://leetcode.com/berqiamouad/)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-## Some informations
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berqiamouad&show_icons=true&theme=dracula&locale=en&layout=compact" alt="berqiamouad" /></p>
 
-- 🔭 I’m currently working on Website to learn C++ for competitive programming 
-- 🌱 I’m currently learning Machine learning 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berqiamouad&show_icons=true&locale=en" alt="berqiamouad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berqiamouad&" alt="berqiamouad" /></p>
+
