@@ -1,4 +1,4 @@
-![](https://github.com/BerqiaMouad/BerqiaMouad/blob/main/banner.jpg)
+![](https://github.com/BerqiaMouad/BerqiaMouad/blob/main/bannernewanim.gif)
 
 
 <h1 align="center">Hi 👋, I'm Mouad</h1>
