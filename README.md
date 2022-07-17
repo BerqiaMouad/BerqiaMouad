@@ -18,6 +18,13 @@ I'm Mouad from Morocco, and I'm a Computer Science student and part time Frotn-e
 
 ⚡ Fun fact **I actually love problem solving**
 
+<h3> Some of my projects </h3>
+<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/mywebsitegif.gif" width="300">
+<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/fsrcpclubgif.gif" width="300">
+
+<h3> Work in progress </h3>
+<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/cppforcppresentation.gif" width="300">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/berqiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berqiam" height="30" width="40" /></a>
