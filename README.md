@@ -7,7 +7,7 @@
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110ad05f4e020be8c9c2e213f04850822da582477a&rid=giphy.gif&ct=g" width="300" align="right">
 
 <p>
-I'm Mouad from Morocco, and I'm a Computer Science student and part time Frotn-end web developer. I really enjoy learning new things related to tech and computer science and I am also interested in machine learning. I do some competitive programming as well, in fact I have participated in many contests and won some of them. I really love to work on new projects with new people. You can check my web portfolio at www.berqiamouad.me or my twitter at www.twitter.com/BerqiaM.
+I'm Mouad from Morocco, and I'm a Computer Science student and part time Front-end web developer. I really enjoy learning new things related to tech and computer science and I am also interested in machine learning. I do some competitive programming as well, in fact I have participated in many contests and won some of them. I really love to work on new projects with new people. You can check my web portfolio at www.berqiamouad.me or my twitter at www.twitter.com/BerqiaM.
 </p>
 
 <br><br><br><br>
