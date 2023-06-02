@@ -16,8 +16,6 @@ I'm Mouad from Morocco, and I'm a Computer Science student and part time Front-e
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berqiamouad" alt="berqiamouad" /></a> </p>
 
-🔭 I’m currently working on [A website to learn C++ for Competitive programming](https://github.com/BerqiaMouad/cppForCp)
-
 🌱 I’m currently learning **Machine learning**
 
 👨‍💻 All of my projects are available at [berqiamouad.me](berqiamouad.me)
@@ -29,9 +27,6 @@ I'm Mouad from Morocco, and I'm a Computer Science student and part time Front-e
 <h3> Some of my projects </h3>
 <img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/mywebsitegif.gif" width="300"> &nbsp; &nbsp;
 <img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/fsrcpclubgif.gif" width="300">
-
-<h3> Work in progress </h3>
-<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/cppforcppresentation.gif" width="300">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
