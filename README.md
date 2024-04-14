@@ -22,7 +22,7 @@ Curious about my endeavors? Feel free to explore my web portfolio at https://ber
 
 🌱 I’m currently learning **Statistics and Data Science**
 
-👨‍💻 All of my projects are available at [berqiamouad.me](berqiamouad.netlify.app)
+👨‍💻 All of my projects are available at [berqiamouad](berqiamouad.netlify.app)
 
 📫 How to reach me **berqiamouad@gmail.com**
 
