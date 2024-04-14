@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Mouad</h1>
-<h3 align="center">Data Science Master student | R&D Intern</h3>
+<h3 align="center">Data Science Master student</h3>
 
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110ad05f4e020be8c9c2e213f04850822da582477a&rid=giphy.gif&ct=g" width="300" align="right">
 
 <p>
-I'm Mouad, hailing from Morocco, currently immersed in the realm of data science and machine learning. As a passionate data science master's student and R&D intern at ORA Technologies, I thrive on the constant pursuit of knowledge in this field. My journey in tech began with Computer Science, and I've since gravitated toward the captivating intricacies of data.
+I'm Mouad, hailing from Morocco, currently immersed in the realm of data science and machine learning. As a passionate data science master's student, I thrive on the constant pursuit of knowledge in this field. My journey in tech began with Computer Science, and I've since gravitated toward the captivating intricacies of data.
 
 In addition to my academic pursuits, I indulge in front-end web development, combining my technical skills with creativity. Competitive programming is my playground, where I've not only participated in numerous contests but also clinched victories along the way. Collaborating on fresh projects with diverse teams exhilarates me, allowing me to expand my horizons.
 
