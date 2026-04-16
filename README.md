@@ -1,55 +1,91 @@
-<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/bannernewanim.gif" width="100%">
-
-
-<h1 align="center">Hi 👋, I'm Mouad</h1>
-<h3 align="center">Data Science Master student</h3>
-
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110ad05f4e020be8c9c2e213f04850822da582477a&rid=giphy.gif&ct=g" width="300" align="right">
-
-<p>
-I'm Mouad, hailing from Morocco, currently immersed in the realm of data science and machine learning. As a passionate data science master's student, I thrive on the constant pursuit of knowledge in this field. My journey in tech began with Computer Science, and I've since gravitated toward the captivating intricacies of data.
-
-In addition to my academic pursuits, I indulge in front-end web development, combining my technical skills with creativity. Competitive programming is my playground, where I've not only participated in numerous contests but also clinched victories along the way. Collaborating on fresh projects with diverse teams exhilarates me, allowing me to expand my horizons.
-
-Curious about my endeavors? Feel free to explore my web portfolio at https://berqiamouad.netlify.app or catch up on my insights via Twitter at www.twitter.com/BerqiaM and LinkedIn at https://www.linkedin.com/in/berqiamouad/.
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Mouad Berqia banner" width="100%" />
 </p>
 
-<br><br><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berqiamouad&label=Profile%20views&color=0e75b6&style=flat" alt="berqiamouad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berqiamouad" alt="berqiamouad" /></a> </p>
-
-🌱 I’m currently learning **Statistics and Data Science**
-
-👨‍💻 All of my projects are available at [berqiamouad](berqiamouad.netlify.app)
-
-📫 How to reach me **berqiamouad@gmail.com**
-
-⚡ Fun fact **I actually love problem solving**
-
-<h3> Some of my projects </h3>
-<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/mywebsitegif.gif" width="300"> &nbsp; &nbsp;
-<img src="https://github.com/BerqiaMouad/BerqiaMouad/blob/main/fsrcpclubgif.gif" width="300">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/berqiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berqiam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berqiamouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berqiamouad" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/berqiamouad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="berqiamouad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/berqiamouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berqiamouad" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/MouadWillBeExpert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="berqiamouad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/berqiamouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="berqiamouad" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/berqiamouad/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mouad%20Berqia-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/MouadDidNotFail">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Expert%20(max%201729)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://ideas.repec.org/h/spr/lnichp/978-3-031-75329-9_42.html">
+    <img alt="Publication" src="https://img.shields.io/badge/Publication-Springer%202024-2E7D32?style=flat-square&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="mailto:berqiamouad@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-berqiamouad%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://typescript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berqiamouad&show_icons=true&theme=dracula&locale=en&layout=compact" alt="berqiamouad" /></p>
-<br>
+AI Software Engineer at **OCP Rock Solutions** since **September 2025**, working across agentic AI, full-stack product engineering, cloud infrastructure, and data platforms.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berqiamouad&show_icons=true&locale=en" alt="berqiamouad" /></p>
-<br>
+I like working on systems where the hard part is not only the model or the UI, but the full path from problem framing to orchestration, APIs, deployment, reliability, and feedback loops. Outside work, I spend a lot of time on algorithms, competitive programming, ML research, developer tooling, and quantitative systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berqiamouad&" alt="berqiamouad" /></p>
+I hold a **Master's in Data Science & Engineering** and a **Bachelor's in Computer Science** from **Mohammed V University in Rabat**.
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Building At Work
+
+- Agentic workflows for document-heavy and operations-heavy enterprise processes
+- Multi-agent orchestration and production backend services
+- Full-stack interfaces that make complex AI systems usable
+- Cloud-native deployments on Azure with Docker and Kubernetes
+
+</td>
+<td valign="top" width="50%">
+
+### What I Bring
+
+- Strong algorithmic foundation from competitive programming
+- Production experience across **Python**, **FastAPI**, **React/Vite**, **TypeScript**, and major cloud platforms
+- Data engineering and ETL experience across **AWS**, **GCP**, and **Azure**
+- A bias toward shipping clean, reliable systems with measurable outcomes
+
+</td>
+</tr>
+</table>
+
+## Experience Snapshot
+
+- **OCP Rock Solutions — AI Software Engineer**  
+  Building end-to-end AI systems that automate complex internal workflows, combining orchestration logic, backend algorithms, and usable frontend surfaces.
+
+- **Boston Consulting Group — Software Engineer Intern**  
+  Built AWS ETL pipelines and a medallion-style data architecture for large pricing datasets, improving ingestion speed by **30%** and reducing errors by **40%**.
+
+- **DiaaLand — Software Engineering Intern**  
+  Built document intelligence components for PDF parsing, section classification, and named entity extraction to reduce reliance on third-party tooling.
+
+## Selected Highlights
+
+- Co-authored a **Springer 2024** publication on LLM-generated plagiarism detection using NLP and ensemble learning.
+- Earned a **Kaggle Silver Medal** in the *LLM - Detect AI Generated Text* competition, ranking **165 / 4,358**.
+- Took **1st place** in the **ACM Moroccan Collegiate Programming Contest 2021**.
+- Took **1st place** in the **Moroccan National Programming Contest 2022**.
+- Reached **Codeforces Expert** with a max rating of **1729**.
+- Created a **CodinGame community puzzle** and built tooling around competitive programming workflows.
+
+## Featured Repositories
+
+| Project | Focus | Why it matters |
+| --- | --- | --- |
+| [GTAVSDC: GTA V Self Driving Car](https://github.com/BerqiaMouad/GTAVSelfDrvingCarSupervisedAI) | Computer vision, simulation, supervised learning | Explores autonomy in a simulated environment with lane detection and CNN-based control. |
+| [Neovim Setup](https://github.com/BerqiaMouad/Neovim-Setup) | Developer tooling, automation | A LazyVim-based setup with Codeforces workflow tooling for contest creation, local testing, and submission flows. |
+| [Contest Creator & Solution Checker](https://github.com/BerqiaMouad/Contest_Creator_and_Solution_Checker) | CLI automation | Streamlines competitive programming workflows by fetching samples and validating solutions locally. |
+| [Competitive Programming](https://github.com/BerqiaMouad/competitive-programming) | Algorithms, problem solving | My archive of contest solutions and explanations across competitive programming rounds. |
+
+## Interests
+
+`Algorithms` `Software Engineering` `AI Engineering` `Data Science` `LLMs & Agents` `MLOps` `Developer Tooling` `Quant Research` `Algo Trading`
+
+## Currently Exploring
+
+- Better evaluation loops for agentic systems
+- Reliable AI product engineering in production
+- Data-intensive backend architecture
+- Systematic and quantitative approaches to markets
