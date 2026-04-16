@@ -1,0 +1,84 @@
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="430" rx="24" fill="url(#bg)"/>
+  <text x="52" y="44" fill="#E5E7EB" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Latest Work &amp; Achievements</text>
+  <text x="52" y="70" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="14">A compact snapshot of the most recent role, measurable impact, and public achievements.</text>
+
+  <g transform="translate(52 96)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#38BDF8"/>
+    <text x="44" y="29" fill="#93C5FD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">CURRENT ROLE</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">AI SWE</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">OCP Rock Solutions</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Since September 2025</text>
+  </g>
+
+  <g transform="translate(352 96)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#34D399"/>
+    <text x="44" y="29" fill="#A7F3D0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">CURRENT FOCUS</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Agentic AI</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Workflow automation</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Multi-agent orchestration</text>
+  </g>
+
+  <g transform="translate(652 96)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#22C55E"/>
+    <text x="44" y="29" fill="#86EFAC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">DELIVERY STACK</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Python · React</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">FastAPI · LangGraph</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Azure · Docker · Kubernetes</text>
+  </g>
+
+  <g transform="translate(952 96)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#F59E0B"/>
+    <text x="44" y="29" fill="#FCD34D" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">BCG IMPACT</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">+30%</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Ingestion speed</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">AWS S3 · Glue · PySpark</text>
+  </g>
+
+  <g transform="translate(52 246)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#FB7185"/>
+    <text x="44" y="29" fill="#FDA4AF" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">DATA QUALITY</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">-40%</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Pipeline errors</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Medallion architecture</text>
+  </g>
+
+  <g transform="translate(352 246)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#10B981"/>
+    <text x="44" y="29" fill="#A7F3D0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">RESEARCH</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">0.9985</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">ROC AUC</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Springer publication · 2024</text>
+  </g>
+
+  <g transform="translate(652 246)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#FACC15"/>
+    <text x="44" y="29" fill="#FDE68A" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">KAGGLE</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">165 / 4,358</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Silver Medal</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">LLM text detection · January 2024</text>
+  </g>
+
+  <g transform="translate(952 246)">
+    <rect width="280" height="130" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="10" fill="#60A5FA"/>
+    <text x="44" y="29" fill="#93C5FD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">COMPETITIVE EDGE</text>
+    <text x="20" y="66" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">1729 max</text>
+    <text x="20" y="92" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Codeforces Expert</text>
+    <text x="20" y="112" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">1st MCPC 2021 · 1st MNPC 2022</text>
+  </g>
+</svg>
