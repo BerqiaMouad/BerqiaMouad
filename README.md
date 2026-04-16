@@ -1,91 +1,43 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Mouad Berqia banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Mouad Berqia" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/berqiamouad/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mouad%20Berqia-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/MouadDidNotFail">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Expert%20(max%201729)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://ideas.repec.org/h/spr/lnichp/978-3-031-75329-9_42.html">
-    <img alt="Publication" src="https://img.shields.io/badge/Publication-Springer%202024-2E7D32?style=flat-square&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="mailto:berqiamouad@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-berqiamouad%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  AI Software Engineer at <strong>OCP Rock Solutions</strong><br/>
+  Building agentic systems, full-stack products, and data-heavy software.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/berqiamouad/">LinkedIn</a> ·
+  <a href="https://codeforces.com/profile/MouadDidNotFail">Codeforces</a> ·
+  <a href="https://ideas.repec.org/h/spr/lnichp/978-3-031-75329-9_42.html">Publication</a> ·
+  <a href="mailto:berqiamouad@gmail.com">Email</a>
 </p>
 
 ## About
 
-AI Software Engineer at **OCP Rock Solutions** since **September 2025**, working across agentic AI, full-stack product engineering, cloud infrastructure, and data platforms.
+I work on AI-powered software systems end to end: workflow automation, orchestration, backend services, frontend interfaces, deployment, and reliability.
 
-I like working on systems where the hard part is not only the model or the UI, but the full path from problem framing to orchestration, APIs, deployment, reliability, and feedback loops. Outside work, I spend a lot of time on algorithms, competitive programming, ML research, developer tooling, and quantitative systems.
+Right now, my main focus is building production AI systems at **OCP Rock Solutions**. Before that, I worked on **AWS data pipelines and medallion architecture at BCG**, and on **document extraction / NLP systems at DiaaLand**.
 
-I hold a **Master's in Data Science & Engineering** and a **Bachelor's in Computer Science** from **Mohammed V University in Rabat**.
+My background is a mix of **software engineering**, **data science**, and **competitive programming**, which is why I naturally gravitate toward problems that need both strong implementation and strong reasoning.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## Highlights
 
-### Building At Work
+- **AI Software Engineer** at OCP Rock Solutions since **September 2025**
+- **Springer 2024** publication on LLM-generated plagiarism detection using NLP and ensemble learning
+- **Kaggle Silver Medal** in *LLM - Detect AI Generated Text* with rank **165 / 4,358**
+- **1st place** in the **ACM Moroccan Collegiate Programming Contest 2021**
+- **1st place** in the **Moroccan National Programming Contest 2022**
+- **Codeforces Expert** with max rating **1729**
 
-- Agentic workflows for document-heavy and operations-heavy enterprise processes
-- Multi-agent orchestration and production backend services
-- Full-stack interfaces that make complex AI systems usable
-- Cloud-native deployments on Azure with Docker and Kubernetes
+## Selected Work
 
-</td>
-<td valign="top" width="50%">
-
-### What I Bring
-
-- Strong algorithmic foundation from competitive programming
-- Production experience across **Python**, **FastAPI**, **React/Vite**, **TypeScript**, and major cloud platforms
-- Data engineering and ETL experience across **AWS**, **GCP**, and **Azure**
-- A bias toward shipping clean, reliable systems with measurable outcomes
-
-</td>
-</tr>
-</table>
-
-## Experience Snapshot
-
-- **OCP Rock Solutions — AI Software Engineer**  
-  Building end-to-end AI systems that automate complex internal workflows, combining orchestration logic, backend algorithms, and usable frontend surfaces.
-
-- **Boston Consulting Group — Software Engineer Intern**  
-  Built AWS ETL pipelines and a medallion-style data architecture for large pricing datasets, improving ingestion speed by **30%** and reducing errors by **40%**.
-
-- **DiaaLand — Software Engineering Intern**  
-  Built document intelligence components for PDF parsing, section classification, and named entity extraction to reduce reliance on third-party tooling.
-
-## Selected Highlights
-
-- Co-authored a **Springer 2024** publication on LLM-generated plagiarism detection using NLP and ensemble learning.
-- Earned a **Kaggle Silver Medal** in the *LLM - Detect AI Generated Text* competition, ranking **165 / 4,358**.
-- Took **1st place** in the **ACM Moroccan Collegiate Programming Contest 2021**.
-- Took **1st place** in the **Moroccan National Programming Contest 2022**.
-- Reached **Codeforces Expert** with a max rating of **1729**.
-- Created a **CodinGame community puzzle** and built tooling around competitive programming workflows.
-
-## Featured Repositories
-
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [GTAVSDC: GTA V Self Driving Car](https://github.com/BerqiaMouad/GTAVSelfDrvingCarSupervisedAI) | Computer vision, simulation, supervised learning | Explores autonomy in a simulated environment with lane detection and CNN-based control. |
-| [Neovim Setup](https://github.com/BerqiaMouad/Neovim-Setup) | Developer tooling, automation | A LazyVim-based setup with Codeforces workflow tooling for contest creation, local testing, and submission flows. |
-| [Contest Creator & Solution Checker](https://github.com/BerqiaMouad/Contest_Creator_and_Solution_Checker) | CLI automation | Streamlines competitive programming workflows by fetching samples and validating solutions locally. |
-| [Competitive Programming](https://github.com/BerqiaMouad/competitive-programming) | Algorithms, problem solving | My archive of contest solutions and explanations across competitive programming rounds. |
+- [Neovim Setup](https://github.com/BerqiaMouad/Neovim-Setup) — developer tooling for faster competitive programming workflows inside Neovim
+- [GTAV Self Driving Car](https://github.com/BerqiaMouad/GTAVSelfDrvingCarSupervisedAI) — computer vision and supervised learning in a simulation environment
+- [Contest Creator & Solution Checker](https://github.com/BerqiaMouad/Contest_Creator_and_Solution_Checker) — CLI tooling for fetching samples and validating contest solutions locally
+- [Competitive Programming](https://github.com/BerqiaMouad/competitive-programming) — contest archive and problem-solving work
 
 ## Interests
 
-`Algorithms` `Software Engineering` `AI Engineering` `Data Science` `LLMs & Agents` `MLOps` `Developer Tooling` `Quant Research` `Algo Trading`
-
-## Currently Exploring
-
-- Better evaluation loops for agentic systems
-- Reliable AI product engineering in production
-- Data-intensive backend architecture
-- Systematic and quantitative approaches to markets
+Algorithms, software engineering, AI engineering, data systems, developer tooling, quantitative research, and algo trading.

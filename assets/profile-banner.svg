@@ -1,81 +1,31 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1220"/>
-      <stop offset="0.58" stop-color="#111827"/>
-      <stop offset="1" stop-color="#052E2B"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B3A36"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1060 72) rotate(90) scale(190 260)">
-      <stop stop-color="#34D399" stop-opacity="0.42"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 42) rotate(90) scale(180 260)">
+      <stop stop-color="#34D399" stop-opacity="0.32"/>
       <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 308) rotate(90) scale(170 320)">
-      <stop stop-color="#38BDF8" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.05" fill="none"/>
     </pattern>
   </defs>
 
-  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
-  <rect x="24" y="24" width="1232" height="312" rx="24" fill="#FFFFFF" fill-opacity="0.02" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect width="1280" height="260" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="260" rx="24" fill="url(#grid)"/>
+  <circle cx="1080" cy="44" r="180" fill="url(#glow)"/>
 
-  <circle cx="1070" cy="82" r="200" fill="url(#glowA)"/>
-  <circle cx="250" cy="300" r="180" fill="url(#glowB)"/>
+  <path d="M776 206C862 165 944 154 1026 164C1095 172 1158 191 1234 155" stroke="#34D399" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M760 184C847 146 930 138 1013 148C1087 157 1153 176 1224 142" stroke="#38BDF8" stroke-opacity="0.16" stroke-width="2"/>
 
-  <path d="M744 318C810 259 874 228 934 226C1004 224 1074 263 1218 178" stroke="#34D399" stroke-opacity="0.28" stroke-width="2"/>
-  <path d="M724 288C797 238 859 213 923 214C996 215 1066 251 1200 158" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="72" y="72" fill="#93C5FD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6">BERQIAMOUAD</text>
+  <text x="72" y="128" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Mouad Berqia</text>
+  <text x="72" y="166" fill="#D1D5DB" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">AI Software Engineer</text>
+  <text x="72" y="202" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Algorithms, AI systems, data engineering, and production software</text>
 
-  <text x="72" y="78" fill="#93C5FD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="1.2">BERQIAMOUAD</text>
-  <text x="72" y="138" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Mouad Berqia</text>
-  <text x="72" y="176" fill="#D1D5DB" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">AI Software Engineer building reliable systems across AI, data, and algorithms.</text>
-  <text x="72" y="212" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Agentic systems  •  full-stack engineering  •  data platforms  •  developer tooling</text>
-
-  <g transform="translate(72 246)">
-    <rect x="0" y="0" width="132" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.35"/>
-    <text x="20" y="24" fill="#E2E8F0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Algorithms</text>
-
-    <rect x="144" y="0" width="122" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#34D399" stroke-opacity="0.35"/>
-    <text x="165" y="24" fill="#E2E8F0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">AI Systems</text>
-
-    <rect x="278" y="0" width="126" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#22C55E" stroke-opacity="0.35"/>
-    <text x="300" y="24" fill="#E2E8F0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Data &amp; ML</text>
-
-    <rect x="416" y="0" width="168" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#A78BFA" stroke-opacity="0.28"/>
-    <text x="439" y="24" fill="#E2E8F0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Quant Research</text>
-  </g>
-
-  <g transform="translate(854 58)">
-    <rect width="344" height="58" rx="18" fill="#0F172A" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <text x="22" y="24" fill="#93C5FD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.9">CURRENT ROLE</text>
-    <text x="22" y="43" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">AI Software Engineer at OCP Rock Solutions</text>
-  </g>
-
-  <g transform="translate(854 130)">
-    <rect width="164" height="54" rx="18" fill="#0F172A" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <text x="18" y="22" fill="#34D399" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.9">RESEARCH</text>
-    <text x="18" y="40" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Springer 2024</text>
-  </g>
-
-  <g transform="translate(1034 130)">
-    <rect width="164" height="54" rx="18" fill="#0F172A" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <text x="18" y="22" fill="#FACC15" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.9">KAGGLE</text>
-    <text x="18" y="40" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Silver Medal</text>
-  </g>
-
-  <g transform="translate(854 198)">
-    <rect width="164" height="54" rx="18" fill="#0F172A" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <text x="18" y="22" fill="#38BDF8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.9">CODEFORCES</text>
-    <text x="18" y="40" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Expert (1729 max)</text>
-  </g>
-
-  <g transform="translate(1034 198)">
-    <rect width="164" height="54" rx="18" fill="#0F172A" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <text x="18" y="22" fill="#A7F3D0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.9">FOCUS</text>
-    <text x="18" y="40" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Ship usable systems</text>
-  </g>
-
-  <text x="854" y="294" fill="#94A3B8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Casablanca, Morocco  •  Competitive programming  •  AI product engineering</text>
+  <rect x="916" y="70" width="288" height="48" rx="14" fill="#0F172A" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="940" y="100" fill="#E5E7EB" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">OCP Rock Solutions · Casablanca</text>
 </svg>
